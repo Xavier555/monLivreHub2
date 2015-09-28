@@ -1,0 +1,4 @@
+git init
+
+créer un fichier : monLivre.txt
+lol
