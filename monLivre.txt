@@ -1,4 +1,4 @@
-git init
+Mon Titre 
+Chap1
 
-créer un fichier : monLivre.txt
-lol
+Si tu n'aimes pas ça,: change le !
